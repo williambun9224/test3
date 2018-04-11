@@ -33,10 +33,6 @@
                 <p><a ng-if="fsclickable" ng-href="{{filesystemroot}}" mm-link auto-login="no">{{ filesystemroot }}</a></p>
                 <p ng-if="!fsclickable">{{ filesystemroot }}</p>
             </li>
-            <li class="item item-text-wrap" ng-if="navigator && navigator.userAgent">
-                <p class="item-heading">{{ 'mm.settings.navigatoruseragent' | translate}}</p>
-                <p>{{ navigator.userAgent }}</p>
-            </li>
             <li class="item item-text-wrap" ng-if="navigator && navigator.language">
                 <p class="item-heading">{{ 'mm.settings.navigatorlanguage' | translate}}</p>
                 <p>{{ navigator.language }}</p>
