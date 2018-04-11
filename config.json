@@ -1,6 +1,6 @@
 {
     "app_id" : "com.ruangklas.ruangklasmobile",
-    "appname": "RuangKlas Mobile",
+    "appname": "WillDev Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode" : "2023",
     "versionname" : "1.0.0",
@@ -10,8 +10,8 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
-    "siteurl": "http://185.201.8.24/learningonline/login/",
+    "customurlscheme": "",
+    "siteurl": "http://185.201.8.24/learningonline",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
