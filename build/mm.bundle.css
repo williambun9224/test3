@@ -10544,8 +10544,8 @@ a.button {
 .mm-bglogo {
   background-color: #100873;
   /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#ff7600, #ff5c00);
-  background: radial-gradient(#ff7600, #ff5c00);
+  background: -webkit-radial-gradient(#ff7600, #100873);
+  background: radial-gradient(#ff7600, #100873);
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
